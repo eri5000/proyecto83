@@ -1,0 +1,33 @@
+.body_backgorund {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFFY96v1NUdWOqI-WdOA4AmcvQx6pR_e45Jg&usqp=CAU");
+    background-position: center;
+    background-size: cover;
+  }
+  body{
+    cursor: pointer;
+  }
+  h1
+  {
+      color:yellow; 
+      font-size: 40px;
+  }
+  #myCanvas
+  {
+      border-width:10px;
+      background-color: white; 
+      border-style:ridge;
+  }
+
+  button {
+    background-color: lightseagreen;
+    border: none;
+    color: white;
+    padding: 10px 42px;
+    font-size: 16px;
+  }
+
+  input
+  {
+    margin-right: 20px;
+  }
+  
